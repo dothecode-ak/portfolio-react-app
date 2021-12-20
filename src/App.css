@@ -5,8 +5,19 @@
 }
 
 #commongBG,
-#Team {
+#Team,
+.btn {
     background-color: #1d9d77 !important;
+    border: none !important;
+    outline: none !important;
+}
+
+.footerColor a {
+    color: #1d9d77;
+}
+
+a {
+    color: #000000 !important;
 }
 
 .navbar #myMenu .custom-nav .nav-item a {
